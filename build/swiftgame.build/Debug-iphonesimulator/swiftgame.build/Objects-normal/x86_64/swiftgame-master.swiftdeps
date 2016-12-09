@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "b49b0913fde157418565fd0a13843fa4"
+build_time: [534550148, 12651000]
+inputs:
+  "/Users/larry/Documents/swiftgame/swiftgame/GameScene.swift": [534550144, 0]
+  "/Users/larry/Documents/swiftgame/swiftgame/GameViewController.swift": [534550144, 0]
+  "/Users/larry/Documents/swiftgame/swiftgame/AppDelegate.swift": [534550144, 0]
